@@ -1,0 +1,46 @@
+Array
+(
+    [first_name] => efes
+    [last_name] => sefesf
+    [password] => Aa1iKwykp692
+    [email] => sfsef@gmail.com
+    [phone] => 2015555555
+    [area_code] => 
+    [hitid] => {subid}
+    [country] => 
+    [funnel] => CupTour
+    [affid] => 6
+    [aff_sub2] => SEO
+    [aff_sub3] => EN
+    [aff_sub4] => SEO
+    [aff_sub9] => switch
+    [aff_sub10] => SEO-62
+    [source] => Facebook
+    [_ip] => 127.0.0.1
+    [language] => EN
+)
+
+
+Array
+(
+    [csrf_token] => f6ff59117b9b3e29105dc09450acc98fb9de7c942904c5641b8f18da1fa26ffa
+    [subid] => {subid}
+    [pixel] => {sub_id_2}
+    [lang] => en
+    [source] => {traffic_source_name}
+    [offer] => CupTour
+    [sub4] => {sub_id_8}
+    [country] => 
+    [design] => 
+    [offer_id] => 
+    [fp_sid] => 
+    [fio] => efes
+    [lastName] => sefesf
+    [solrka] => sfsef@gmail.com
+    [areaCode] => 
+    [search2] => 2015555555
+    [full] => +12015555555
+    [fp_nonce] => 1772703300
+    [fp_hash] => 59f0e12845a85582fe3109cb9d12641ae3d9a2a694a1989dc11c3a57edd8f943
+    [fp_checks] => 1
+)
